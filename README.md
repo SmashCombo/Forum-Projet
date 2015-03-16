@@ -7,3 +7,4 @@ je l'ai provisoirement baptisé H@lp.
 
 #Historique 
 Dim 15 Mars --> Mise en place de l'hebergement test, du github et de la connexion 'site associé', création d'un modèle de base.
+Lundi 16 Mars --> adaptation de l'index et de ses composants css et jvsc. 
