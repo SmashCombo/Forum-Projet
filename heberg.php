@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
-  <title>ARaynorDesign Template</title>
+  <title>H@lp -- Notre hébergeur</title>
   <meta name="description" content="free website template" />
   <meta name="keywords" content="enter your keywords here" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -17,10 +17,10 @@
     <div id="header">
 	  <div id="banner">
 	    <div id="welcome">
-	      <h1>Grey Theme</h1>
+	      <h1>H@lp!</h1>
 	    </div><!--close welcome-->
 	    <div id="welcome_slogan">
-	      <h1>Your Company Slogan Here</h1>
+	      <h1>Réussite informatique 2.0</h1>
 	    </div><!--close welcome_slogan-->
 	  </div><!--close banner-->
     </div><!--close header-->
@@ -79,20 +79,19 @@
 	   
       <div id="content">
         <div class="content_item">
-          <h2>Testimonials</h2>
+          <h2>Notre hébergeur</h2>
 			<div class="content_container">
+			  <h3>Chez qui ?</h3>
+			  <p>Nous sommes actuelement hébergé chez OVH, sur les serveurs ROUBAIX IV, en France .<!--close content_container--></p>
+			  <p> <center><img src="images/ovh.png" width="51" height="55" /></center></p>
+			</div><div class="content_container">
 			  <h3>Mr Joe Bloggs</h3>
 			  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.&rdquo;</p>
-			</div><!--close content_container-->
-            <div class="content_container">
-			  <h3>Mr Joe Bloggs</h3>
-			  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.&rdquo;</p>
-			</div><!--close content_container--> 
+			</div>
+		  <p><!--close content_container--></p>
+			<p><!--close content_container-->
+		  </p>
 			<div class="content_container">
-			  <h3>Mr Joe Bloggs</h3>
-			  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.&rdquo;</p>
-			</div><!--close content_container-->
-            <div class="content_container">
 			  <h3>Mr Joe Bloggs</h3>
 			  <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.&rdquo;</p>
 			</div><!--close content_container--> 
@@ -127,9 +126,7 @@
  
   </div><!--close main-->
   
-  <div id="footer">
-	  <a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://fotogrph.com/">Images</a> | website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
-  </div><!--close footer-->  	
+  <div id="footer"><a href="http://validator.w3.org/check?uri=referer">Projet ISN 2014-2015 MOYSE HORNOY</a><a href="http://www.araynordesign.co.uk"></a> </div><!--close footer-->  	
   
 </body>
 </html>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
-  <title>H@lp -- Entraide 2.0</title>
+  <title>H@lp! -- Entraide 2.0</title>
   <meta name="description" content="free website template" />
   <meta name="keywords" content="enter your keywords here" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -17,7 +17,7 @@
     <div id="header">
 	  <div id="banner">
 	    <div id="welcome">
-	      <h1>H@lp me!</h1>
+	      <h1>H@lp!</h1>
 	    </div><!--close welcome-->
 	    <div id="welcome_slogan">
 	      <h1>Réussite informatique 2.0</h1>
@@ -53,52 +53,51 @@
         </div><!--close sidebar-->
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Mars 2015</h3>
+            <p>Mise en ligne du site H@lp et activation de l'hébergement Virtuel.</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->  
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Mai 2015</h3>
+            <p>Présentation et rendu final du projet</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->  		
         <div class="sidebar">
           <div class="sidebar_item">
             <h2>Contact</h2>
-            <p>Phone: +44 (0)1234 567891</p>
-            <p>Email: <a href="mailto:info@youremail.co.uk">info@youremail.co.uk</a></p>
+            <p>Tel : 06 14 99 47 94</p>
+            <p>Email: <a href="mailto:info@youremail.co.uk">paul@paulitow.fr</a></p>
           </div><!--close sidebar_item--> 
         </div><!--close sidebar-->
        </div><!--close sidebar_container-->	
 	
       <ul class="slideshow">
         <li class="show"><img width="680" height="250" src="images/php.png" alt="Des cours pour jeunes, par des jeunes" /></li>
-        <li><img width="680" height="250" src="images/home_2.jpg" alt="Apprendre redevient un plaisir" /></li>
+        <li><img width="680" height="250" src="images/serv.jpeg" alt="Apprendre redevient un plaisir" /></li>
       </ul>   	 
 	 
 	  <div id="content">
         <div class="content_item">
-		  <h1>Welcome To Your Website</h1> 
-	      <p>This standards compliant, simple, fixed width website template is released as an 'open source' design (under the Creative Commons Attribution 3.0 Licence), which means that you are free to download and use it for anything you want (including modifying and amending it). If you wish to remove the &lsquo;ARaynorDesign&rsquo; link in the footer of the template, please contact me first, but other than that...</p>
+		  <h1>Bienvenue sur notre site !</h1> 
+	      <p>Ceci est notre site de présentation de notre projet en ISN que nous réalisons au lycée du rempart</p>
 		  
 		  <div class="content_image">
-		    <img src="images/content_image1.jpg" alt="image1"/>
+		    <img src="images/content.jpg" alt="image1"/>
 	      </div>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>
-		  <br style="clear:both"/>
+		  <p>Nous allons donc vous présenter notre projet à travers ce site, il nous servira de base de présentation, le forum est héberger via un sous-domaine</p>
+		  sur ce même serveur.<br style="clear:both"/>
 		  
 		  <div class="content_container">
-		    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
+		    <p>Ecrivons ici notre article</p>
 		  	<div class="button_small">
-		      <a href="#">Read more</a>
+		      <a href="#">Lire plus..</a>
 		    </div><!--close button_small-->
 		  </div><!--close content_container-->
           <div class="content_container">
-		    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>          
+		    <p>Et ici quelques précitions..</p>          
 		  	<div class="button_small">
-		      <a href="#">Read more</a>
+		      <a href="#">Lire plus..</a>
 		    </div><!--close button_small-->		  
 		  </div><!--close content_container-->			  
 		</div><!--close content_item-->
@@ -107,24 +106,24 @@
     
 	<div id="content_grey">
 	  <div class="content_grey_container_box">
-		<h4>Latest Blog Post</h4>
-	    <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
+		<h4>Notre lycée</h4>
+	    <p> Cliquez ici pour vous rendre sur le site de notre lycée, Le rempart.</p>
 		<div class="readmore">
-		  <a href="#">Read more</a>
+		  <a href="#">Cliquez !</a>
 		</div><!--close readmore-->
 	  </div><!--close content_grey_container_box-->
       <div class="content_grey_container_box">
-       <h4>Latest News</h4>
-	    <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
+       <h4>Infos serveur</h4>
+	    <p> Serveur Web OVH avec 100Go et 1Gbps de bande passante.</p>
 	    <div class="readmore">
-		  <a href="#">Read more</a>
+		  <a href="#">OVH.com</a>
 		</div><!--close readmore-->
 	  </div><!--close content_grey_container_box-->
       <div class="content_grey_container_boxl">
-		<h4>Latest Projects</h4>
-	    <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
+		<h4>Résumer du projet</h4>
+	    <p> En attente d'actualisation</p>
 	    <div class="readmore">
-		  <a href="#">Read more</a>
+		  <a href="#">Plus d'infos</a>
 		</div><!--close readmore-->	  
 	  </div><!--close content_grey_container_box1-->      
 	  <br style="clear:both"/>
@@ -132,9 +131,7 @@
  
   </div><!--close main-->
   
-  <div id="footer">
-	  <a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://fotogrph.com/">Images</a> | website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
-  </div><!--close footer-->  
+  <div id="footer"><a href="http://validator.w3.org/check?uri=referer">Projet ISN 2014-2015 MOYSE HORNOY</a><a href="http://www.araynordesign.co.uk"></a> </div><!--close footer-->  
   
 </body>
 </html>

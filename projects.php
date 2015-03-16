@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
-  <title>ARaynorDesign Template</title>
+  <title>H@lp -- Notre projet</title>
   <meta name="description" content="free website template" />
   <meta name="keywords" content="enter your keywords here" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -17,11 +17,12 @@
     <div id="header">
 	  <div id="banner">
 	    <div id="welcome">
-	      <h1>Grey Theme</h1>
+	      <h1>H@lp!</h1>
 	    </div><!--close welcome-->
 	    <div id="welcome_slogan">
-	      <h1>Your Company Slogan Here</h1>
-	    </div><!--close welcome_slogan-->
+	      <h1>Réussite informatique 2.0	    </h1>
+	    </div>
+	    <!--close welcome_slogan-->
 	  </div><!--close banner-->
     </div><!--close header-->
 
@@ -127,9 +128,7 @@
  
   </div><!--close main-->
   
-  <div id="footer">
-	  <a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://fotogrph.com/">Images</a> | website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
-  </div><!--close footer-->  	
+  <div id="footer"><a href="http://validator.w3.org/check?uri=referer">Projet ISN 2014-2015 MOYSE HORNOY</a><a href="http://www.araynordesign.co.uk"></a> </div><!--close footer-->  	
   
 </body>
 </html>
