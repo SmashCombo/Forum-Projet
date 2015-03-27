@@ -40,34 +40,34 @@
 	  <div class="sidebar_container">       
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h2>New Website</h2>
-            <p>Welcome to our new website. Please have a look around, any feedback is much appreciated.</p>
+            <h2>Qui sommes nous ?</h2>
+            <p>Nous allons nous présenter, Toma et moi.</p>
           </div><!--close sidebar_item--> 
         </div><!--close sidebar-->     		
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h2>Latest Update</h2>
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h2>Dernière mise à jour</h2>
+            <h3>Le serveur Web est Actif</h3>
+            <p>Notre serveur est fonctionnel</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Apprendre le SQL</h3>
+            <p>Ce cours rédiger par le proffesionel Toma vous expliquera comment créer une base de donnée</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->  
 		<div class="sidebar">
           <div class="sidebar_item">
-            <h3>September 2012</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>         
+            <h3>Le java, en dansant la Java</h3>
+            <p>C'est aussi simple que ça, vous allez voir !</p>         
 		  </div><!--close sidebar_item--> 
         </div><!--close sidebar-->  		
         <div class="sidebar">
           <div class="sidebar_item">
             <h2>Contact</h2>
-            <p>Phone: +44 (0)1234 567891</p>
-            <p>Email: <a href="mailto:info@youremail.co.uk">info@youremail.co.uk</a></p>
+            <p>Phone: 06 14 99 47 94 </p>
+            <p>Email: <a href="mailto:info@youremail.co.uk">paul@paulitow.fr</a></p>
           </div><!--close sidebar_item--> 
         </div><!--close sidebar-->
        </div><!--close sidebar_container-->	
@@ -79,16 +79,15 @@
         
 	  <div id="content">
         <div class="content_item">
-          <h2>Our Work</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ullamcorper, massa eu iaculis imperdiet, turpis nunc aliquam augue, eget condimentum lectus velit vitae urna. Curabitur eu feugiat erat. Nam et arcu sit amet magna facilisis accumsan vel nec mauris. Vivamus interdum adipiscing molestie. Vestibulum sollicitudin massa eget turpis cursus eget ullamcorper odio pharetra. Sed dictum lacus sed erat molestie id aliquet enim vestibulum.</p>
+          <h2>Nous connaitre :</h2>
+			<p>Moi, c'est Paul, j'aime la vie.</p>
 		    <div class="content_container">
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
-		    	<div class="button_small">
-		        <a href="#">Read more</a>
-		      </div><!--close button_small-->
+		      <p>Moi, c'est Toma, je n'aime pas la vie.</p>
+		    	<div class="button_small"><a href="#">ad more</a>
+		      Moi, c'est Michel, je sais pas ce que je fous là.</div><!--close button_small-->
 		    </div><!--close content_container-->
             <div class="content_container">
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>          
+		      <p>Moi, c'est abdel, Yolo.</p>          
 		    	<div class="button_small">
 		        <a href="#">Read more</a>
 		        </div><!--close button_small-->		  

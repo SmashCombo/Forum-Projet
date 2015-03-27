@@ -21,11 +21,13 @@ img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 175% Arial, Helvetica, sans-serif;
-  color: #1D1D1D;
-  text-shadow: 1px 1px #fff;
-  letter-spacing: -1px;
-  margin: 0 0 10px 0;}
+{
+	font: normal 175% Arial, Helvetica, sans-serif;
+	color: #000000;
+	text-shadow: 1px 1px #fff;
+	letter-spacing: -1px;
+	margin: 0 0 10px 0;
+}
 
 h2
 { font: normal 165% Arial, Helvetica, sans-serif;}

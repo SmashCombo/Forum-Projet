@@ -3,8 +3,8 @@
 
 <head>
   <title>H@lp! -- Entraide 2.0</title>
-  <meta name="description" content="free website template" />
-  <meta name="keywords" content="enter your keywords here" />
+  <meta name="description" content="Entraide informatique solidaire depuis 2015" />
+  <meta name="keywords" content="informatique,code,html,css,php,paulitow,hackersoft,paul,isn,projet,2015,lycée,du,rempart,marseille" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=9" />
   <link rel="stylesheet" type="text/css" href="css/style.css" />
